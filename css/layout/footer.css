@@ -30,3 +30,22 @@ footer{
     align-items: center;
     gap: 95px;
 }
+
+.footer-context__item2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.footer-context__item2_context{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
