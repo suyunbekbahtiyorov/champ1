@@ -1,0 +1,39 @@
+#partners{
+    background-color: #181818;
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+
+.partners-context{
+    color: #FFFFFF;
+    font-size: 52px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.partners-desc{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.partners-logos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.partners-btn{
+    width: 176px;
+    height: 52px;
+    border: 1px, solid, white;
+    background-color: transparent;
+    color: #FFFFFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

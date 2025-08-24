@@ -1,0 +1,9 @@
+#back-img{
+    background-image: url("../../images/back-image.png");
+    height: 1000px;
+    background-color: #181818;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}

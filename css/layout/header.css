@@ -1,0 +1,44 @@
+header{
+    padding-top: 20px;
+    padding-bottom: 21px;
+    background-color: #181818;
+}
+
+.union{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .union{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-union-menu{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.header-union-menu li a{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.btn1{
+    width: 139px;
+    height: 52px;
+    background-color: transparent;
+    border: 1px, solid, white;
+    color: white;
+    font-size: 17px;
+}
+
+.union-item{
+    display: flex;
+    align-items: center;
+    gap: 173.5px;
+}

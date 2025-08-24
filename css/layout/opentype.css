@@ -1,0 +1,42 @@
+#opentype{
+    padding-top: 80px;
+    padding-bottom: 180px;
+    background-color: #181818;
+}
+
+.opentype_card{
+    width: 1219px;
+    height: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #00000026;
+    border-radius: 33px;
+    padding-left: 104px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+}
+
+.opentype_card__context{
+    color: #FFFFFF;
+    font-size: 52px;
+    font-weight: 400;
+    margin-bottom: 37px;
+}
+
+.opentype-btn{
+    width: 232px;
+    height: 52px;
+    background-color: #4452FE;
+    color: #FFFFFF;
+    font-size: 17px;
+    border: none;
+}
+
+.opentype_card__img{
+    position: absolute;
+    right: 0;
+    bottom: -1px;
+}

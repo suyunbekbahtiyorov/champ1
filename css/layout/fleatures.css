@@ -1,0 +1,56 @@
+#fleatures{
+    padding-bottom: 161.5px;
+    padding-top: 162px;
+    background-color: #181818;
+}
+
+.fleatures_context{
+    color: #FFFFFF;
+    font-size: 52px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 27px;
+}
+
+.fleatures_desc{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.fleatures-img2{
+    margin-left: 324px;
+    margin-top: -250px;
+}
+
+.features-item__vecs{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.features-item__context{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.features-item__desc{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.features-item{
+    margin-top: 35px;
+}
+
+.features-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
